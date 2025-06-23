@@ -32,5 +32,5 @@
   
 -did bla bla
 
-- Brenna 
+- Brenna Solomon
  
