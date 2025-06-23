@@ -44,3 +44,8 @@
 
 - Brenna Solomon
  
+- Designed the leaderboard page with features like starting a new quiz, or even saving your score.
+- Designed a system in which the player can save their score where it uploads to a database and returns the rankings from 1st to 5th.
+- Enabled the light/dark mode system.
+- Assisted Aysha on layout and page designs for html pages.
+- Included a timer onto the questions page such that it moves to the next question if a question isn't answered before the timer runs out.
