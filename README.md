@@ -29,7 +29,8 @@
 >Team Members and Roles:
 
 - Aysha Mukhtar
-did bla bla
+  
+-did bla bla
 
 - Brenna 
  
