@@ -15,9 +15,9 @@
 
 -Step 1: make sure you have Node.js installed on your machine.
 
--Step 2: clone the repository in your terminal: git clone https://github.com/ayshamukhtar/Quiz-App-1.git
+-Step 2: clone the repository in your terminal: git clone https://github.com/ayshamukhtar/QuizAppFinal.git
 
--Step 3: cd Quiz-App-1
+-Step 3: cd QuizAppFinal
 
 -Step 4: npm install 
 
