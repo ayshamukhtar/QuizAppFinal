@@ -2,13 +2,13 @@
 
 - Light/Dark Mode
 
-- Sign up to track you records
+- Timer for each question
 
 - Results Page with your Score
 
 - Leaderboard page
 
-- Lets you know if you got the answer correct, when the button turning green and wrong, when the button turns red
+- Lets you know if you got the answer correct, when the button turns green and wrong, when the button turns red
 
 
 >How to run the server:
