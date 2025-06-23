@@ -31,10 +31,15 @@
 - Aysha Mukhtar
   
 -Helped create the Home page (index.html), Questions page (questions.html) and results.html
+
 -Added background with animaated moving image
+
 -Added the server and server steps to make sure everything runs smoothly
+
 -Deployed add using Render
+
 -Sign Up button 
+
 -Loaded the questions
 
 - Brenna Solomon
